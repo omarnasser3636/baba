@@ -1,0 +1,133 @@
+{
+  "usersWithTransactions": 2,
+  "users": [
+    {
+      "name": "super administrator",
+      "email": "superadmin@api.com",
+      "balance": 0,
+      "transactions": [
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088221",
+          "date": "2026-02-12T14:08:03.113Z"
+        }
+      ]
+    },
+    {
+      "name": "mohamed عبدالمجيد el araby",
+      "email": "superdfdf@api.com",
+      "balance": 100,
+      "transactions": [
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088223",
+          "date": "2026-02-12T14:10:40.239Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088246",
+          "date": "2026-02-12T14:39:21.175Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088248",
+          "date": "2026-02-12T14:39:51.839Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088249",
+          "date": "2026-02-12T14:43:26.242Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088250",
+          "date": "2026-02-12T14:43:42.060Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088253",
+          "date": "2026-02-12T14:47:26.741Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088254",
+          "date": "2026-02-12T14:47:55.019Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088255",
+          "date": "2026-02-12T14:49:09.018Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088256",
+          "date": "2026-02-12T14:49:19.622Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088259",
+          "date": "2026-02-12T14:50:39.288Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088261",
+          "date": "2026-02-12T14:51:54.594Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088262",
+          "date": "2026-02-12T14:52:13.057Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088263",
+          "date": "2026-02-12T14:54:08.983Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "pending",
+          "code": "FAWATERK_1088265",
+          "date": "2026-02-12T14:58:42.045Z"
+        },
+        {
+          "type": "recharge",
+          "amount": 100,
+          "status": "completed",
+          "code": "FAWATERK_1088273",
+          "date": "2026-02-12T15:04:48.481Z"
+        }
+      ]
+    }
+  ],
+  "paymentRecords": 0,
+  "payments": []
+}

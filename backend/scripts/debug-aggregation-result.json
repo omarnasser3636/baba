@@ -1,0 +1,12 @@
+{
+  "count": 16,
+  "firstResult": {
+    "type": "recharge",
+    "amount": 100,
+    "code": "FAWATERK_1088273",
+    "description": "Pending Fawaterk Recharge (2)",
+    "date": "2026-02-12T15:04:48.481Z",
+    "status": "completed",
+    "_id": "698dec10e03f9448c6b862f9"
+  }
+}
